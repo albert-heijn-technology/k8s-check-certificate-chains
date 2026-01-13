@@ -1,3 +1,5 @@
+> This project is no longer maintained, feel free to fork the project.
+
 # k8s-check-certificate-chains
 
 Ingress/nginx does not like silly certificates, therefore I created two scripts to find wrong ones.
